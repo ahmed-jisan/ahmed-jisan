@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jisanah90877460" target="blank"><img src="https://img.shields.io/twitter/follow/jisanah90877460?logo=twitter&style=for-the-badge" alt="jisanah90877460" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ahmed-jisan.github.io/san-world/index.html#landing](https://ahmed-jisan.github.io/san-world/index.html#landing)
+- 👨‍💻 All of my projects are available at [https://ahmed-jisan.github.io/san-world/index.html](https://ahmed-jisan.github.io/san-world/index.html)
 
 - 💬 Ask me about **HTML,CSS,SVG & JS**
 
